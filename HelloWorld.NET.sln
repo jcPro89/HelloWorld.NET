@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Console", "Hello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WinForms", "HelloWorld.WinForms\HelloWorld.WinForms.csproj", "{C1F13D1C-CEC6-4F48-BD1B-D7F2B3F3347A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WPF", "HelloWorld.WPF\HelloWorld.WPF.csproj", "{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1F13D1C-CEC6-4F48-BD1B-D7F2B3F3347A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F13D1C-CEC6-4F48-BD1B-D7F2B3F3347A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F13D1C-CEC6-4F48-BD1B-D7F2B3F3347A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
