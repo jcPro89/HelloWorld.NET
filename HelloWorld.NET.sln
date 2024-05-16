@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WinForms", "Hell
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WPF", "HelloWorld.WPF\HelloWorld.WPF.csproj", "{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Razor", "HelloWorld.Razor\HelloWorld.Razor.csproj", "{238A5AD2-866B-44DB-ABE4-CB394FFBCC65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B6C309B-7EC3-4A26-8D50-DA3272C617CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238A5AD2-866B-44DB-ABE4-CB394FFBCC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238A5AD2-866B-44DB-ABE4-CB394FFBCC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238A5AD2-866B-44DB-ABE4-CB394FFBCC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238A5AD2-866B-44DB-ABE4-CB394FFBCC65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
